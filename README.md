@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi 👋 I'm Supriya
 
-<!--
-**SupriyaShirsat05/SupriyaShirsat05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student | Placement Preparation  
+💻 Practicing DSA & Core CS  
+📚 Learning DBMS, OS, CN, Web Dev  
 
-Here are some ideas to get you started:
+### Skills:
+- Java
+- Python
+- Data Structures & Algorithms
+- DBMS, OS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On:
+- Impactful projects
+
