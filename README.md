@@ -89,6 +89,6 @@ const me = {
                                         — Martin Fowler
 ```
 
-*thanks for stopping by · feel free to explore ·* ⭐ *a repo if something sparks joy*
+*Made with* ❤️ *by supriya*
 
 </div>
